@@ -13,4 +13,4 @@ Prequisites:
 * Vagrant, VirutalBox
 * 2 Vagrant Boxes (centos, ubuntu)
 * Putty
-* This tutorial suppose that you have already installed puppetmaster, agents and doing all the configurations required to make it up and running (ssh, service enabling, httpd, puppet phusion passenger ...)
+* This tutorial suppose that you have already installed puppetmaster, agents and doing all the configurations required to make it up and running (ssh, service enabling, httpd, puppet phusion passenger, selinux, firewall ...)
