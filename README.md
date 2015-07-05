@@ -7,5 +7,5 @@ Puppet Fundamentals for System Administrators + Vagrant:
 * Creating and using modules (mediawiki, apache, mysql, ntp, firewall, vcsrepo)
 * Creating file templates
 * Configuring Hiera
-* Version control(git)
+* Version control (git)
 
