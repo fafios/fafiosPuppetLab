@@ -1,0 +1,114 @@
+--- !ruby/object:Puppet::Node::Facts
+  values: 
+    sshrsakey: "AAAAB3NzaC1yc2EAAAABIwAAAQEAmCC4JyGfsjdiw7hfZeFdQ1yXvP0nGbb+FWFIcrJRDLps4sPoYz4C6tvVYo2FVTK5FYtyUPu15oRgmC8uGQCT3nNn9Px0vlMg2uqLW7uEP1ayeaN03ai53y1NxmT6WyHlK+gkZZkY6PWHAsMg7tDDI2fMEwNMk8pSrH1CAt2CkPJwod/muRvg6cwi5FQYLUJkkk1TOeNuv1OEiSgwhrn4akAc8LUO8svPhz8QcoNoBUpodwljx3WjGROyNKs6cKfX6MoWiau3Fktual0keRfvOfOksqWbMxG9j4XwKkV+Cmhys/kAYzAYvM4BVor9N9nPYhRS+kcEWK1HbPWPt44QyQ=="
+    serialnumber: "0"
+    selinux_enforced: "false"
+    macaddress_eth1: "08:00:27:9E:C0:EE"
+    mtu_eth0: "1500"
+    boardproductname: VirtualBox
+    blockdevice_sda_model: "VBOX HARDDISK"
+    fqdn: ci
+    puppetversion: "3.8.1"
+    blockdevice_sda_vendor: ATA
+    gid: root
+    memorysize_mb: "996.38"
+    operatingsystem: CentOS
+    system_uptime: "seconds17658days0hours4uptime4:54 hours"
+    path: "/sbin:/bin:/usr/sbin:/usr/bin"
+    memoryfree: "818.42 MB"
+    netmask_eth1: "255.255.255.0"
+    swapsize_mb: "2048.00"
+    blockdevices: "sda,sr0"
+    netmask: "255.255.255.0"
+    swapsize: "2.00 GB"
+    "_timestamp": 2015-07-05 13:51:56.208611 -04:00
+    operatingsystemmajrelease: "6"
+    architecture: x86_64
+    puppet_vardir: /var/lib/puppet
+    sshfp_rsa: |-
+      SSHFP 1 1 1d6a1ed7f75539012e357ebb9174327c44a9815f
+      SSHFP 1 2 3c01a6c462dc4066c40315856cf6f871848b6a4d6de357a9f4887ed1fcaed46d
+    kernelversion: "2.6.32"
+    timezone: EDT
+    memorysize: "996.38 MB"
+    swapfree_mb: "2008.82"
+    partitions: sda1mount/bootuuid5b4e2cc7-8e56-40cc-9e4a-3719c926adc1size1024000filesystemext4sda2size40916992filesystemLVM2_member
+    blockdevice_sr0_size: "1073741312"
+    rubysitedir: /usr/lib/ruby/site_ruby/1.8
+    boardserialnumber: "0"
+    concat_basedir: /var/lib/puppet/concat
+    manufacturer: "innotek GmbH"
+    macaddress: "08:00:27:A6:51:83"
+    osfamily: RedHat
+    hardwareisa: x86_64
+    is_pe: "false"
+    productname: VirtualBox
+    type: Other
+    clientnoop: "false"
+    ipaddress_eth0: "10.0.2.15"
+    selinux: "true"
+    macaddress_eth0: "08:00:27:A6:51:83"
+    bios_version: VirtualBox
+    uptime_days: "0"
+    ipaddress: "10.0.2.15"
+    bios_vendor: "innotek GmbH"
+    facterversion: "2.4.4"
+    processor0: "Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz"
+    virtual: virtualbox
+    selinux_config_mode: enforcing
+    rubyplatform: x86_64-linux
+    boardmanufacturer: "Oracle Corporation"
+    clientversion: "3.8.1"
+    network_lo: "127.0.0.0"
+    uptime_hours: "4"
+    sshdsakey: "AAAAB3NzaC1kc3MAAACBAPlBCwadIZOmAfKTjfmt4jtn1BAW+sTFU4D4f7YPUb4PPQyapSxXUglkP2nbN77EgIFIss6lhjHuYGzzoS13Nv6l8ZTNrEc7h2dWPqLXamZ0zSEABuofZdYFsbvGc56nw+FKdzYk5Y7AAyc6WgZ7Fj+Mb7yeSQaa1OmeGnR33K8DAAAAFQCI2XTY/kJsuT3y6f5K0VvkwDgJqwAAAIBrVkrkBzplsPRsjdtdPvKA1IccGz1KmXsBV3Asih4tImV/VIZH4iPpzjRYpx4vOyg11DGslhgBuTHkYu+eliulXEd8tCBuKWdB3cT3gM7VDSYoUY4G4tm/sMDEU5InfLRn4vZA/qDzAwW6Cb4aFR1+gMUPojIycRvPfwNL28C9hQAAAIBMWZhTWKkvnNZHogPaNfNQR/VCKaJEDPmz5cvCX5lUxIsw93XNTjZck6Pj7yD/xURdmYMdP4UqeOcZx3bxSpW4A+QzeNC6eeqydcmLkU5R9CWk6JJYy4sd1DFf8ZQHckPctgPXap5HpgdjvZePyC0Wl8dk8uuebqIj7CpiOhWxcg=="
+    uptime: "4:54 hours"
+    kernelmajversion: "2.6"
+    netmask_lo: "255.0.0.0"
+    kernelrelease: "2.6.32-504.1.3.el6.x86_64"
+    uptime_seconds: "17658"
+    netmask_eth0: "255.255.255.0"
+    physicalprocessorcount: "1"
+    processorcount: "1"
+    network_eth1: "172.31.0.0"
+    uuid: "1ECF3C4B-4D85-4E17-A90D-4DD03E0E3E75"
+    ipaddress_lo: "127.0.0.1"
+    hostname: ci
+    mysql_server_id: "8592275"
+    blockdevice_sda_size: "21474836480"
+    blockdevice_sr0_model: CD-ROM
+    swapfree: "1.96 GB"
+    os: nameCentOSreleaseminor5major6full6.5familyRedHat
+    mtu_lo: "65536"
+    mysql_version: "5.1.73"
+    memoryfree_mb: "818.42"
+    rubyversion: "1.8.7"
+    blockdevice_sr0_vendor: VBOX
+    operatingsystemrelease: "6.5"
+    hardwaremodel: x86_64
+    ip6tables_version: "1.4.7"
+    ps: "ps -ef"
+    processors: "modelsIntel(R) Core(TM) i5-2410M CPU @ 2.30GHzphysicalcount1count1"
+    mtu_eth1: "1500"
+    selinux_config_policy: targeted
+    iptables_version: "1.4.7"
+    bios_release_date: "12/01/2006"
+    is_virtual: "true"
+    clientcert: ci
+    selinux_policyversion: "24"
+    sshfp_dsa: |-
+      SSHFP 2 1 26ce7f9be98fb03d1b9e3073ccdf5449a9966285
+      SSHFP 2 2 f38bbcec19b3ef280170ecc84d467af6609d2223d9bb11aefd37b1cbd8874701
+    selinux_current_mode: permissive
+    interfaces: "eth0,eth1,lo"
+    uniqueid: "007f0100"
+    staging_http_get: curl
+    id: root
+    filesystems: "ext4,iso9660"
+    network_eth0: "10.0.2.0"
+    ipaddress_eth1: "172.31.0.202"
+    kernel: Linux
+    root_home: /root
+    augeasversion: "1.0.0"
+  name: ci
+  expiration: 2015-07-05 13:52:55.967112 -04:00
