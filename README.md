@@ -8,7 +8,7 @@ Puppet Fundamentals for System Administrators + Vagrant:
 * Configuring Hiera
 * Version control (git)
 
-Prequisites:
+Requirements
 
 * Vagrant, VirutalBox
 * 2 Vagrant Boxes (centos, ubuntu)
